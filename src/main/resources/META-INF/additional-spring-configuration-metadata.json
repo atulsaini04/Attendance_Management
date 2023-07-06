@@ -1,0 +1,42 @@
+{"properties": [
+  {
+    "name": "spring.datasource.initialize",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.initialize'"
+  },
+  {
+    "name": "redis.clientconfig.host.ip",
+    "type": "java.lang.String",
+    "description": "A description for 'redis.clientconfig.host.ip'"
+  },
+  {
+    "name": "redis.clientconfig.thread.pool.size",
+    "type": "java.lang.String",
+    "description": "A description for 'redis.clientconfig.thread.pool.size'"
+  },
+  {
+    "name": "redis.clientconfig.host.port",
+    "type": "java.lang.String",
+    "description": "A description for 'redis.clientconfig.host.port'"
+  },
+  {
+    "name": "redis.clientconfig.host.databaseid",
+    "type": "java.lang.String",
+    "description": "A description for 'redis.clientconfig.host.databaseid'"
+  },
+  {
+    "name": "redis.clientconfig.client.type",
+    "type": "java.lang.String",
+    "description": "A description for 'redis.clientconfig.client.type'"
+  },
+  {
+    "name": "redis.clientconfig.wait.millis",
+    "type": "java.lang.String",
+    "description": "A description for 'redis.clientconfig.wait.millis'"
+  },
+  {
+    "name": "redis.clientconfig.host.password",
+    "type": "java.lang.String",
+    "description": "A description for 'redis.clientconfig.host.password'"
+  }
+]}
